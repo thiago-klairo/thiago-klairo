@@ -22,8 +22,6 @@ Olá! Bem vindo ao meu perfil.
      <img align="center" alt="TH" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
      <img align="center" alt="TH" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"> 
      <img align="center" alt="TH" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-    
-
   </div>  <br>
     
     
