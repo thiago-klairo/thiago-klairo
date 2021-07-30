@@ -5,7 +5,7 @@ Olá! Bem vindo ao meu perfil.
 - 📫 Contato: thiago.pontes20@hotmail.com
 
     <div style "display:block"> 
-     <a align = "center" "500px" href="https://picasion.com/"><img  align = "right" src="https://i.picasion.com/pic91/474af628f2b8652e2b3bf52f45148061.gif" width="200" height="200" border="1">
+     <a align = "center" "500px" href="https://picasion.com/"><img  align = "right" src="https://i.picasion.com/pic91/474af628f2b8652e2b3bf52f45148061.gif" width="300" height="300" border="1">
   </div>
   
  
