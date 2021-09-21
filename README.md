@@ -1,7 +1,7 @@
 Olá! Bem vindo ao meu perfil.
 
 
-  - Atualmente estou focado em aprender Node, EJS, Express e SQL
+  - Atualmente estou focado em me desenvolver como Full stack
 - 📫 Contato: thiago.pontes20@hotmail.com
 
     <div style "display:block"> 
