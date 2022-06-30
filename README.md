@@ -13,7 +13,7 @@ Olá! Bem vindo ao meu perfil.
  <div>
   <a href="https://github.com/thiago-klairo">
   <img  width ="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-klairo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  width ="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-klairo&hide=&layout=compact&langs_count=7&theme=dark"/>
+  <img  width ="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-klairo&hide=python&layout=compact&langs_count=7&theme=dark"/>
 </div>
    
   <div>  <img align="center" alt="TH" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +23,9 @@ Olá! Bem vindo ao meu perfil.
      <img align="center" alt="TH" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
      <img align="center" alt="TH" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> 
      <img align="center" alt="TH" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img align="center" alt="TH" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+
+
   </div>  <br>
     
     
