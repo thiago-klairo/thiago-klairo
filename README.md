@@ -8,13 +8,7 @@ Olá! Bem vindo ao meu perfil.
      <a align = "center" "500px" href="https://picasion.com/"><img  align = "right" src="https://i.picasion.com/pic91/474af628f2b8652e2b3bf52f45148061.gif" width="300" height="300" border="1">
   </div>
   
- 
- 
- <div>
-  <a href="https://github.com/thiago-klairo">
-  <img  width ="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-klairo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  width ="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-klairo&hide=python&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
    
   <div>  <img align="center" alt="TH" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="TH" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> 
