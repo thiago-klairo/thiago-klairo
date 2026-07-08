@@ -9,8 +9,7 @@ Olá! Bem vindo ao meu perfil.
   </div>
   
 
-   
-  <div>  <img align="center" alt="TH" height="40" width="40" 
+
 
   </div>  <br>
     
